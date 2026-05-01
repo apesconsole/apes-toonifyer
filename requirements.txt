@@ -1,0 +1,4 @@
+# TOON-ify Core Dependencies
+toon-python>=0.1.3        # The primary encoding engine
+tiktoken>=0.7.0           # For precise OpenAI token measurement
+tqdm>=4.66.0              # (Optional) For the visual progress bar
